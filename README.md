@@ -5,6 +5,7 @@ This repository contains my solutions to LeetCode problems. Each problem is orga
 ## Problems
 
 - [Problem 1: Two Sum](./problems/two-sum/README.md)
+- [Problem 2: Add Two Numbers](./problems/add-two-numbers/README.md)
 - ...
 
 ## Contributing
