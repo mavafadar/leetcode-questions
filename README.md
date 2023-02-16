@@ -9,6 +9,7 @@ This repository contains my solutions to LeetCode problems. Each problem is orga
 - [Problem 3: Longest Substring Without Repeating Characters](./problems/longest-substring-without-repeating-characters/)
 - [Problem 4: Median of Two Sorted Arrays](./problems/median-of-two-sorted-arrays)
 - [Problem 5: Longest Palindromic Substring](./problems/longest-palindromic-substring)
+- [Problem 6: ZigZag Conversion](./problems/zigzag-conversion)
 - ...
 
 ## Contributing
