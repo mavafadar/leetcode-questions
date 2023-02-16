@@ -10,6 +10,7 @@ This repository contains my solutions to LeetCode problems. Each problem is orga
 - [Problem 4: Median of Two Sorted Arrays](./problems/median-of-two-sorted-arrays)
 - [Problem 5: Longest Palindromic Substring](./problems/longest-palindromic-substring)
 - [Problem 6: ZigZag Conversion](./problems/zigzag-conversion)
+- [Problem 7: Reverse Integer](./problems/reverse-integer)
 - ...
 
 ## Contributing
