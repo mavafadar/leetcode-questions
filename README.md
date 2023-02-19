@@ -12,6 +12,7 @@ This repository contains my solutions to LeetCode problems. Each problem is orga
 - [Problem 6: ZigZag Conversion](./problems/zigzag-conversion)
 - [Problem 7: Reverse Integer](./problems/reverse-integer)
 - [Problem 8: String to Integer (atoi)](./problems/string-to-integer-(atoi))
+- [Problem 9: Palindrome Number](./problems/palindrome-number)
 
 ## Contributing
 
