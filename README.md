@@ -13,6 +13,7 @@ This repository contains my solutions to LeetCode problems. Each problem is orga
 - [Problem 7: Reverse Integer](./problems/reverse-integer)
 - [Problem 8: String to Integer (atoi)](./problems/string-to-integer-(atoi))
 - [Problem 9: Palindrome Number](./problems/palindrome-number)
+- [Problem 10: 3Sum](./problems/3sum)
 
 ## Contributing
 
