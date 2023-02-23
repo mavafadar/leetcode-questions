@@ -17,6 +17,7 @@ This repository contains my solutions to LeetCode problems. Each problem is orga
 - [Problem 11: Container with Most Water](./problems/container-with-most-water)
 - [Problem 12: Integer to Roman](./problems/integer-to-roman)
 - [Problem 13: Roman to Integer](./problems/roman-to-integer)
+- [Problem 14: Longest Common Prefix](./problems/longest-common-prefix)
 
 ## Contributing
 
