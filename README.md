@@ -18,7 +18,9 @@ This repository contains my solutions to LeetCode problems. Each problem is orga
 - [Problem 12: Integer to Roman](./problems/integer-to-roman)
 - [Problem 13: Roman to Integer](./problems/roman-to-integer)
 - [Problem 14: Longest Common Prefix](./problems/longest-common-prefix)
-- [Problem 15: Valid Parentheses](./problems/valid-parentheses)
+- [Problem 15: 3Sum Closest](./problems/3sum-closest)
+- [Problem 16: Remove Nth Node From End of List](./problems/remove-nth-node-from-end-of-list/)
+- [Problem 17: Valid Parentheses](./problems/valid-parentheses)
 
 ## Contributing
 
