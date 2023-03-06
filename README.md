@@ -26,6 +26,7 @@ This repository contains my solutions to LeetCode problems. Each problem is orga
 - [Problem 20: Rotate Image](./problems/rotate-image)
 - [Problem 21: Group Anagrams](./problems/group-anagrams)
 - [Problem 22: Pow(x, n)](./problems/pow)
+- [Problem 23: Letter Combinations of a Phone Number](./problems/letter-combinations-of-a-phone-number)
 
 ## Contributing
 
